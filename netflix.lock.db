@@ -1,0 +1,6 @@
+#FileLock
+#Fri Nov 24 08:43:13 CET 2023
+hostName=10.11.32.145
+id=18c0048628b3878c29391539abee69cb9e5aa4813e7
+method=file
+server=10.11.32.145\:62135
